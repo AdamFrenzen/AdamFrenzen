@@ -1,4 +1,6 @@
-### Hi there 👋
+### Adam F.
+
+Full stack web developer
 
 <!--
 **AdamFrenzen/AdamFrenzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

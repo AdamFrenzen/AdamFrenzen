@@ -1,16 +1,11 @@
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/@AdamFrenzen" target="_blank">
-        <img src="https://adamfrenzen.com/gifs/youtube-videos.gif" alt="YouTube Videos" />
-      </a>
-    <td>
-      <a href="https://adamfrenzen.com/blog" target="_blank">
-        <img src="https://adamfrenzen.com/gifs/blog-posts.gif" alt="Blog posts" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://www.youtube.com/@AdamFrenzen" target="_blank">
+    <img src="https://adamfrenzen.com/gifs/youtube-videos.gif" alt="YouTube Videos" width="49%" />
+  </a>
+  <a href="https://adamfrenzen.com/blog" target="_blank">
+    <img src="https://adamfrenzen.com/gifs/blog-posts.gif" alt="Blog posts" width="49%" />
+  </a>
+</div>
 
 ### I Like:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

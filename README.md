@@ -1,3 +1,4 @@
+<br>
 <div>
   <a href="https://www.youtube.com/@AdamFrenzen" target="_blank">
     <img src="https://adamfrenzen.com/gifs/youtube-videos.gif" alt="YouTube Videos" width="49%" />
